@@ -3,6 +3,8 @@
 An AI-powered web application built using **Streamlit** that enhances low-light images using a pre-trained **Zero-DCE (Zero-Reference Deep Curve Estimation)** model. Upload individual images or a `.zip` file and bring your dark images to life! ✨
 
 ---
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/7e04bb93-06de-4f54-8f84-2997348115f2" />
+
 
 ## 🚀 Features
 
